@@ -12,9 +12,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "super_greeter": "^1.0.0",
-    "super_greeter_browser_provider": "^1.0.0",
-    "super_greeter_server_provider": "^1.0.0"
+    "super_greeter": "file:../super_greeter",
+    "super_greeter_browser_provider": "file:../super_greeter_browser_provider",
+    "super_greeter_server_provider": "file:../super_greeter_server_provider"
   },
   "devDependencies": {
     "typescript": "^5.6.3"

@@ -9,5 +9,3 @@ greeter.greet();
 provider = new super_greeter_server_provider_1.GreetingProvider();
 greeter = new super_greeter_1.SuperGreeter(provider);
 greeter.greet();
-greeter = new super_greeter_1.SuperGreeter();
-greeter.greet();
