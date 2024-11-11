@@ -32,7 +32,7 @@ npm config set registry http://localhost:4873
 ### Installing Packages in Demo Applications
 
 1. **Navigate to a demo** directory (e.g., `demo`, `demo_implicit_browser`, etc.).
-2. **Install the core and provider packages**:
+2. **Install packages and build the app**:
    ```bash
    npm install
    npm run build
