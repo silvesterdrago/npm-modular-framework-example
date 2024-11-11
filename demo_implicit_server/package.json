@@ -13,7 +13,6 @@
   "description": "",
   "dependencies": {
     "super_greeter": "^1.0.0",
-    "super_greeter_browser_provider": "^1.0.0",
     "super_greeter_server_provider": "^1.0.0"
   },
   "devDependencies": {

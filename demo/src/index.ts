@@ -10,3 +10,6 @@ greeter.greet();
 provider = new ServerProvider();
 greeter = new SuperGreeter(provider);
 greeter.greet();
+
+greeter = new SuperGreeter();
+greeter.greet();
